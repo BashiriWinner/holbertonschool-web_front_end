@@ -15,7 +15,7 @@ a {
     color: var(--color-primary);
 }
 .section-tagline {
-    color: var(--color-rpimary);
+    color: var(--color-primary);
 }
 
 :root {
