@@ -5,7 +5,8 @@ html {
 
 body {
     color: var(--text-color);
-    font-weight: var(--font-weight-regular);
+    font-family: var(--font-weight-base);
+    font-size: var(--font-weight-medium);
     font-weight: var(--font-weight-regular);
 }
 a {
