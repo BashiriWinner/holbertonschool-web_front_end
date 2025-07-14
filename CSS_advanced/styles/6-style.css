@@ -5,8 +5,8 @@ html {
 
 body {
     color: var(--text-color);
-    font-family: var(--font-weight-regular);
-    font-size: var(--font-weight-regular);
+    font-weight: var(--font-weight-regular);
+    font-weight: var(--font-weight-regular);
 }
 a {
     color: #161616;
