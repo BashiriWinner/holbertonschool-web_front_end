@@ -430,7 +430,7 @@ text-align: center;
 .nav .nav-link:hover {
   color: var(--nav-item-link-hover);
 }
-.nav-item-link-hover {
+.nav-item-link:hover {
     color: var(--primary-color);
 }
 .section-title {
