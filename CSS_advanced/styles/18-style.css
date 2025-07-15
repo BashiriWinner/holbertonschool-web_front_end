@@ -426,9 +426,10 @@ text-align: center;
 .nav .nav-link {
     display: block;
     padding: 0.5rem 1rem;
+}
+.nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
-
 .section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
