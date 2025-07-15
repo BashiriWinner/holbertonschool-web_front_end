@@ -428,7 +428,7 @@ text-align: center;
     padding: 0.5rem 1rem;
 }
 .nav .nav-link:hover {
-  color: var(--nav-item-link-hover);
+  color: var(--color-primary);
 }
 .section-title {
     font-family: var(--font-family-title);
