@@ -398,8 +398,8 @@ a:active {
 }
 .card-testimonial .card-avatar {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 10rem;
+    height: 10rem;
 }
 
 .card-testimonial .card-quote cite {
