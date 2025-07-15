@@ -561,10 +561,10 @@ ul.row {
     --button-border: 0.2rem solid var(--color-primary);
     --button-color: var(--color-black);
     --button-text-decoration: none;
-    --button-font-size: font-size-large;
-    --button-hover-color: color-white;
+    --button-font-size: var(--font-size-large);
+    --button-hover-color: var(--color-white);
     --button-hover-text-decoration: none;
-    --button-hover-background: color-primary;
+    --button-hover-background: var(--color-primary);
     }
     h1, h2, h3, h4, h5, h6 {
         font-family: var(--font-family-title);
