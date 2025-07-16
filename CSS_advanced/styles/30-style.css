@@ -517,7 +517,7 @@ text-align: center;
     height: 100%;
     position: relative;
 }
-.card-work .card-title {
+.card-work .card-title a {
     display: block;
     text-decoration: none;
     padding: 45%;
